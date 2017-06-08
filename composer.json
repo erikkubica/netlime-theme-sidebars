@@ -11,7 +11,7 @@
 	],
 	"require": {
 		"php": "^5.5.38 || ^7.0",
-		"netlime-theme/core": "1.*"
+		"netlime-theme/core": "dev-master"
 	},
 	"autoload": {
 		"psr-0": {
